@@ -1,5 +1,8 @@
 # Libft
 
+# Libft :[![dohanyan's 42 Libft Score](https://badge42.vercel.app/api/v2/cldiw2g0k01220fl8ferid3xf/project/2935127)](https://github.com/JaeSeoKim/badge42)
+*My first project in [42 coding school](https://42.fr/en/homepage/)*
+
 Rewrite the GlibC with some additional functions.
 Table of included functions:
 |Glibc Functions| Status| Additional Fucntions| Status|
