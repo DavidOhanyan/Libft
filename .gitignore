@@ -1,0 +1,4 @@
+.vscode/
+libft.a
+objs/
+*.out
