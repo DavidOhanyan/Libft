@@ -2,3 +2,4 @@
 libft.a
 objs/
 *.out
+.DS_Store
